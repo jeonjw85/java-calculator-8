@@ -1,4 +1,5 @@
 # java-calculator-precourse
+프리코스 1주차 자바 문자열 덧셈 계산기
 
 ## 구현항목
 
